@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BasicSyntaxEx02RectangeArea")]
+[assembly: AssemblyTitle("2.ConditionStatmentEx02PassOrFail")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("BasicSyntaxEx02RectangeArea")]
+[assembly: AssemblyProduct("2.ConditionStatmentEx02PassOrFail")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7ccd6dcd-4308-4517-83c4-2faede4fe65f")]
+[assembly: Guid("b2a401f9-ec85-4fd2-84e5-33db43b642d4")]
 
 // Version information for an assembly consists of the following four values:
 //

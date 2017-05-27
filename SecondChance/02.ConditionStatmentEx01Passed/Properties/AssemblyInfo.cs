@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BasicSyntaxEx01DebitCardNumber")]
+[assembly: AssemblyTitle("02.ConditionStatmentEx01Passed")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("BasicSyntaxEx01DebitCardNumber")]
+[assembly: AssemblyProduct("02.ConditionStatmentEx01Passed")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1d83f721-19fa-498b-a207-c7f8e59cbede")]
+[assembly: Guid("89ee017d-6b2e-4ce9-83cd-0e4e410d1d5f")]
 
 // Version information for an assembly consists of the following four values:
 //

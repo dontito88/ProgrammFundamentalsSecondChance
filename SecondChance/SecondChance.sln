@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.BasicSyntaxEx04BevarageLa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.BasicSyntaxEx05CharacterStats", "1.BasicSyntaxEx05CharacterStats\1.BasicSyntaxEx05CharacterStats.csproj", "{DF77DC48-1908-4D39-8244-13851CDE51BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx01Passed", "02.ConditionStatmentEx01Passed\2.ConditionStatmentEx01Passed.csproj", "{89EE017D-6B2E-4CE9-83CD-0E4E410D1D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx02PassOrFail", "2.ConditionStatmentEx02PassOrFail\2.ConditionStatmentEx02PassOrFail.csproj", "{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DF77DC48-1908-4D39-8244-13851CDE51BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF77DC48-1908-4D39-8244-13851CDE51BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF77DC48-1908-4D39-8244-13851CDE51BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EE017D-6B2E-4CE9-83CD-0E4E410D1D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EE017D-6B2E-4CE9-83CD-0E4E410D1D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EE017D-6B2E-4CE9-83CD-0E4E410D1D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EE017D-6B2E-4CE9-83CD-0E4E410D1D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
