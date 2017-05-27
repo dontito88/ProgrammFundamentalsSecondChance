@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx01Pass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx02PassOrFail", "2.ConditionStatmentEx02PassOrFail\2.ConditionStatmentEx02PassOrFail.csproj", "{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx03BackIn30Min", "2.ConditionStatmentEx03BackIn30Min\2.ConditionStatmentEx03BackIn30Min.csproj", "{E2A18BFB-642E-41E6-85AE-D8007A6DDF45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2A401F9-EC85-4FD2-84E5-33DB43B642D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A18BFB-642E-41E6-85AE-D8007A6DDF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A18BFB-642E-41E6-85AE-D8007A6DDF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A18BFB-642E-41E6-85AE-D8007A6DDF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A18BFB-642E-41E6-85AE-D8007A6DDF45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
