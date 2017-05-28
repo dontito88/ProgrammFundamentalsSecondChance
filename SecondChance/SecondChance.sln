@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx05Fore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx06TheatrePromo", "2.ConditionStatmentEx06TheatrePromo\2.ConditionStatmentEx06TheatrePromo.csproj", "{FC0B1589-DAAE-411D-ABC9-BE843161728D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx07DevisibleBy3", "2.ConditionStatmentEx07DevisibleBy3\2.ConditionStatmentEx07DevisibleBy3.csproj", "{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{FC0B1589-DAAE-411D-ABC9-BE843161728D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC0B1589-DAAE-411D-ABC9-BE843161728D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC0B1589-DAAE-411D-ABC9-BE843161728D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
