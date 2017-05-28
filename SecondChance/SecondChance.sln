@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx09Mult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx10MultiTable2", "2.ConditionStatmentEx10MultiTable2\2.ConditionStatmentEx10MultiTable2.csproj", "{5B797AC6-9C91-43E0-94BF-FB1B352CB0BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx11OddNumber", "2.ConditionStatmentEx11OddNumber\2.ConditionStatmentEx11OddNumber.csproj", "{E5506375-61A9-43FF-BDB7-D75CB5F1653D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5B797AC6-9C91-43E0-94BF-FB1B352CB0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B797AC6-9C91-43E0-94BF-FB1B352CB0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B797AC6-9C91-43E0-94BF-FB1B352CB0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5506375-61A9-43FF-BDB7-D75CB5F1653D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5506375-61A9-43FF-BDB7-D75CB5F1653D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5506375-61A9-43FF-BDB7-D75CB5F1653D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5506375-61A9-43FF-BDB7-D75CB5F1653D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
