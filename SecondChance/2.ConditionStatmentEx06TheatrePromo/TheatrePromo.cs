@@ -17,7 +17,7 @@
                 {
                     Console.WriteLine("12$");
                 }
-                else if (age > 18 || age <= 16)
+                else if (age > 18 || age <= 64)
                 {
                     Console.WriteLine("18$");
                 }
@@ -37,7 +37,7 @@
                 {
                     Console.WriteLine("15$");
                 }
-                else if (age > 18 && age <= 16)
+                else if (age > 18 && age <= 64)
                 {
                     Console.WriteLine("20$");
                 }
@@ -57,7 +57,7 @@
                 {
                     Console.WriteLine("5$");
                 }
-                else if (age > 18 && age <= 16)
+                else if (age > 18 && age <= 64)
                 {
                     Console.WriteLine("12$");
                 }
