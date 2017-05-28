@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx06Thea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx07DevisibleBy3", "2.ConditionStatmentEx07DevisibleBy3\2.ConditionStatmentEx07DevisibleBy3.csproj", "{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx08SumOfOffNums", "2.ConditionStatmentEx08SumOfOffNums\2.ConditionStatmentEx08SumOfOffNums.csproj", "{AF149D20-8C03-4D6F-9705-E88E83338B03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EB8DAC8-5D54-4E3D-AA7F-7698C15A0417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF149D20-8C03-4D6F-9705-E88E83338B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF149D20-8C03-4D6F-9705-E88E83338B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF149D20-8C03-4D6F-9705-E88E83338B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF149D20-8C03-4D6F-9705-E88E83338B03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
