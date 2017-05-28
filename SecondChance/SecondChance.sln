@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx07Devi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx08SumOfOffNums", "2.ConditionStatmentEx08SumOfOffNums\2.ConditionStatmentEx08SumOfOffNums.csproj", "{AF149D20-8C03-4D6F-9705-E88E83338B03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ConditionStatmentEx09MultiplicTable", "2.ConditionStatmentEx09MultiplicTable\2.ConditionStatmentEx09MultiplicTable.csproj", "{FB929EAA-9732-4F2A-A120-DEB83A8D16F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{AF149D20-8C03-4D6F-9705-E88E83338B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF149D20-8C03-4D6F-9705-E88E83338B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF149D20-8C03-4D6F-9705-E88E83338B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB929EAA-9732-4F2A-A120-DEB83A8D16F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB929EAA-9732-4F2A-A120-DEB83A8D16F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB929EAA-9732-4F2A-A120-DEB83A8D16F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB929EAA-9732-4F2A-A120-DEB83A8D16F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
