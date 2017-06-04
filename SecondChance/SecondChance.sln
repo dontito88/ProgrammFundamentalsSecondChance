@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.SyntaxMoreEx04PhotoGaller
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.SyntaxMoreEx05BMPcounter", "4.SyntaxMoreEx05BMPcounter\4.SyntaxMoreEx05BMPcounter.csproj", "{3C53921C-0E37-46E5-82C1-FB1E25BEDC1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.DataTypesEx01TimesSinceBirthday", "8.DataTypesEx01TimesSinceBirthday\8.DataTypesEx01TimesSinceBirthday.csproj", "{081FC29E-AA8F-4D43-9754-A8BDCB99765B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.DataTypesEx04Transport", "8.DataTypesEx04Transport\8.DataTypesEx04Transport.csproj", "{01B8EC95-D67C-4846-955B-652D504C3731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{3C53921C-0E37-46E5-82C1-FB1E25BEDC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C53921C-0E37-46E5-82C1-FB1E25BEDC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C53921C-0E37-46E5-82C1-FB1E25BEDC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{081FC29E-AA8F-4D43-9754-A8BDCB99765B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081FC29E-AA8F-4D43-9754-A8BDCB99765B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081FC29E-AA8F-4D43-9754-A8BDCB99765B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081FC29E-AA8F-4D43-9754-A8BDCB99765B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B8EC95-D67C-4846-955B-652D504C3731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B8EC95-D67C-4846-955B-652D504C3731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B8EC95-D67C-4846-955B-652D504C3731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B8EC95-D67C-4846-955B-652D504C3731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
