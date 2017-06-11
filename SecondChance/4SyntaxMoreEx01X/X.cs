@@ -8,23 +8,24 @@
     {
         public static void Main()
         {
-            var n = int.Parse(Console.ReadLine());
-            var innerWhiteSpace = (n / 2) + 2;
-            var outerWhiteSpace = 1;
+            int n = int.Parse(Console.ReadLine());
 
-            if (n % 2 == 0)
+            for (int row = 0; row <= n; row++)
             {
-                Console.WriteLine("Error!");
-            }
-            else
-            {
-                Console.WriteLine("X" + new string(' ', n - 2) + "X");
-
-                for (int i = 0; i < (n - 1) / 2; i++)
+                for (int col = 0; col <= n ; col++)
                 {
-                    Console.WriteLine(new string(' ', outerWhiteSpace) + "X" + new string(' ', innerWhiteSpace) + "X" + new string(' ', outerWhiteSpace));
-                    outerWhiteSpace++;
-                    innerWhiteSpace -= 2;
+                    if (col == row)
+                    {
+                        Console.Write("x");
+                    }
+                    else if (col == n - 1 - row)
+                    {
+                        Console.Write("x");
+                    }
+                    else
+                    {
+                        Console.WriteLine(' ');
+                    }
                 }
                 Console.WriteLine();
             }
