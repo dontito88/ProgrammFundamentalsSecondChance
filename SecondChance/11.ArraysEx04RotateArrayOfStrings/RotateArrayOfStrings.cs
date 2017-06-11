@@ -13,10 +13,13 @@
                 .ToArray();
             string[] changedArray = new string[stringArray.Length];
 
-            for (int i = 0; i < stringArray.Length; i++)
+            for (int i = 0; i < stringArray.Length - 1; i++)
             {
-                
+                changedArray[i + 1] = stringArray[i];
+                string lastElement = stringArray[changedArray.Length - 1];
+                changedArray[0] = lastElement;
             }
+            Console.WriteLine(string.Join(" ", changedArray));
         }
     }
 }
