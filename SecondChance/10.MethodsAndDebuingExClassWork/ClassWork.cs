@@ -8,7 +8,6 @@
     {
         public static void Main()
         {
-            int number = int.Parse(Console.ReadLine());
             
         }
     }
